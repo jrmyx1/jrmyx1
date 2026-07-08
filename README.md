@@ -15,7 +15,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 ## Projects
 | Project | Description | Repository |
 |---------|-------------|------------|
-| OSINT investigation | Conducted an osint investigation on a target organization | coming soon |
+| OSINT investigation | Conducted an osint investigation on a target organization | https://github.com/jrmyx1/osint-project.git |
 | Log analysis | analysed IIS and Windows Event Logs to identify attacks | coming soon |
 
 ## Skills
